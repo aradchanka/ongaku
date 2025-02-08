@@ -1,0 +1,7 @@
+{
+  "name": "ongaku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
